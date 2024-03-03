@@ -13,5 +13,7 @@
 我的QQ邮箱2843565830@qq.com发送邮件
 
 #### 参与贡献
+dinosaur  
+dxy(egg)  
 
 WHUers
