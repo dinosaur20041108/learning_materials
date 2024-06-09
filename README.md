@@ -15,5 +15,6 @@ WHUer的类思政学习资料
 #### 参与贡献
 dinosaur  
 dxy(egg)  
+zyqyq
 
 WHUers
