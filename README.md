@@ -1,5 +1,5 @@
 # learning_materials
-# WHU的学习资料
+# WHU的类思政题库
 
 #### 介绍
 WHUer的类思政学习资料
